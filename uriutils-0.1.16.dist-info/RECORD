@@ -1,0 +1,12 @@
+uriutils-0.1.16.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+uriutils-0.1.16.dist-info/METADATA,sha256=J4kXXOUheCy57ubgUU0OPBTsUT-bDySmPZWP0C0twNE,2284
+uriutils-0.1.16.dist-info/RECORD,,
+uriutils-0.1.16.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+uriutils-0.1.16.dist-info/top_level.txt,sha256=HYwJHaDY8RuM6dXYl81NvixND3-uJ_0O6PCRd8IcKP4,9
+uriutils-0.1.16.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+uriutils/__init__.py,sha256=ErQv6U704f4Ggzx93SrJP71PXNOqU7iKzLK84X5rCN4,24
+uriutils/__pycache__/__init__.cpython-38.pyc,,
+uriutils/__pycache__/storages.cpython-38.pyc,,
+uriutils/__pycache__/uriutils.cpython-38.pyc,,
+uriutils/storages.py,sha256=c4IpaZ8cI89U4iPW0HNyJDd8Ir3ziG9bl3gvf8t2dVI,20017
+uriutils/uriutils.py,sha256=fmdu1KOaFjrszoPgAUHJzjv9SDfU4DuFNcnGrRmHSi8,9316
